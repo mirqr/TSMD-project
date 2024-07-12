@@ -18,7 +18,7 @@ More detailed explanations and comments can be found within the notebooks.
 
 
 
-## Installation
+## Installation (recommended)
 
 To set up the environment, use the provided `environment.yml` file. It is recommended to run this project on a server.
 
